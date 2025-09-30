@@ -15,7 +15,7 @@ A Node.js command-line tool that automatically organizes your Downloads folder. 
 Since this project uses only Node.js core modules, no external dependencies are required. Clone the repository and run it directly:
 
 ```bash
-git clone https://github.com/xyz/organize-downloads.git
+git clone https://github.com/DeepakRizal/organize-downloads.git
 cd organize-downloads
 
 # Create a global symlink for the CLI tool
