@@ -1,0 +1,7 @@
+{
+  "name": "organise-downloads",
+  "type": "module",
+  "bin": {
+    "organise-download": "./index.js"
+  }
+}
